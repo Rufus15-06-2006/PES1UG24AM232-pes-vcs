@@ -19,52 +19,52 @@ This project is a custom Version Control System (VCS) built from scratch in C, m
 
 ### Phase 1: Object Storage
 **Screenshot 1A (Tests):**
-![1A](./screenshots/1a.png)
+![1A](./screenshots/Screenshot 2026-04-21 114419.png)
 *Output showing all tests passing for blob storage and deduplication.*
 
 **Screenshot 1B (Sharding):**
-![1B](./screenshots/1b.png)
+![1B](./screenshots/Screenshot 2026-04-21 194821.png)
 *Directory structure showing sharded objects under `.pes/objects/XX/`.*
 
 ---
 
 ### Phase 2: Tree Objects
 **Screenshot 2A (Tests):**
-![2A](./screenshots/2a.png)
+![2A](./screenshots/Screenshot 2026-04-21 195441.png)
 *Successful serialization and parsing of tree hierarchies.*
 
 **Screenshot 2B (Binary View):**
-![2B](./screenshots/2b.png)
+![2B](./screenshots/Screenshot 2026-04-21 202911.png)
 *Hex dump using `xxd` showing the binary structure of a Tree object.*
 
 ---
 
 ### Phase 3: The Index (Staging Area)
 **Screenshot 3A (Status):**
-![3A](./screenshots/3a.png)
+![3A](./screenshots/Screenshot 2026-04-21 202934.png)
 *Command output of `./pes status` showing staged files.*
 
 **Screenshot 3B (Index File):**
-![3B](./screenshots/3b.png)
+![3B](./screenshots/Screenshot 2026-04-21 203152.png)
 *Raw content of `.pes/index` showing metadata and hashes.*
 
 ---
 
 ### Phase 4: Commits and History
 **Screenshot 4A (Commit Log):**
-![4A](./screenshots/4a.png)
+![4A](./screenshots/Screenshot 2026-04-21 203339.png)
 *Verification of commit creation and linked history.*
 
 **Screenshot 4B (Object Growth):**
-![4B](./screenshots/4b.png)
+![4B](./screenshots/Screenshot 2026-04-21 203733.png)
 *Object store growth after multiple commits.*
 
 **Screenshot 4C (References):**
-![4C](./screenshots/4c.png)
+![4C](./screenshots/Screenshot 2026-04-21 203836.png)
 *Current HEAD pointing to the latest commit hash.*
 
 **Screenshot 4 Test (Testing):**
-![4test](./screenshots/4test.png)
+![4test](./screenshots/Screenshot 2026-04-21 203836.png)
 *Full test integration result.*
 
 ---

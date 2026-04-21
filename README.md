@@ -1,6 +1,6 @@
 # PES-VCS — Version Control System Implementation
-### Name: Piyush Shiv
-### SRN: PES1UG24AM191
+### Name: Rufus Thomas
+### SRN: PES1UG24AM232
 
 ## Project Overview
 This project is a custom Version Control System (VCS) built from scratch in C, modeled after the internal architecture of Git. It implements content-addressable storage, directory tree snapshots, a staging area (index), and a persistent commit history.

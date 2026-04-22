@@ -59,15 +59,18 @@ This project is a custom Version Control System (VCS) built from scratch in C, m
 
 ### Phase 4: Commits and History
 **Screenshot 4A (Commit Log):**
-![4A](./screenshots/Screenshot 2026-04-21 203339.png)
+![4A]<img width="848" height="424" alt="Screenshot 2026-04-21 203152" src="https://github.com/user-attachments/assets/9640c3a1-4e9f-464a-aef1-703d6679cf13" />
+
 *Verification of commit creation and linked history.*
 
 **Screenshot 4B (Object Growth):**
-![4B](./screenshots/Screenshot 2026-04-21 203733.png)
+![4B]<img width="1032" height="355" alt="Screenshot 2026-04-21 203339" src="https://github.com/user-attachments/assets/ee11d8a3-4d2f-48f1-9eaa-ddcc6d4b74b4" />
+
 *Object store growth after multiple commits.*
 
 **Screenshot 4C (References):**
-![4C]
+![4C]<img width="926" height="43" alt="Screenshot 2026-04-21 203733" src="https://github.com/user-attachments/assets/df82b346-b274-4ee4-a8cd-6f070c10bb86" />
+
 
 *Current HEAD pointing to the latest commit hash.*
 

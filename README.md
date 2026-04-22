@@ -19,18 +19,21 @@ This project is a custom Version Control System (VCS) built from scratch in C, m
 
 ### Phase 1: Object Storage
 **Screenshot 1A (Tests):**
-![1A](./screenshots/Screenshot 2026-04-21 114419.png)
+![1A] <img width="1151" height="562" alt="Screenshot 2026-04-21 194821" src="https://github.com/user-attachments/assets/08a2a616-4524-4fb2-9419-9656ed5ff167" />
+
 *Output showing all tests passing for blob storage and deduplication.*
 
 **Screenshot 1B (Sharding):**
-![1B](./screenshots/Screenshot 2026-04-21 194821.png)
+![1B]<img width="929" height="92" alt="Screenshot 2026-04-21 195441" src="https://github.com/user-attachments/assets/40fd123d-197f-4784-89a9-e38f50157735" />
+
 *Directory structure showing sharded objects under `.pes/objects/XX/`.*
 
 ---
 
 ### Phase 2: Tree Objects
 **Screenshot 2A (Tests):**
-![2A](./screenshots/Screenshot 2026-04-21 195441.png)
+![2A]<img width="878" height="110" alt="Screenshot 2026-04-21 202911" src="https://github.com/user-attachments/assets/2f28358b-a0a1-4fdb-9c92-ba76ccff36d4" />
+
 *Successful serialization and parsing of tree hierarchies.*
 
 **Screenshot 2B (Binary View):**
@@ -41,11 +44,13 @@ This project is a custom Version Control System (VCS) built from scratch in C, m
 
 ### Phase 3: The Index (Staging Area)
 **Screenshot 3A (Status):**
-![3A](./screenshots/Screenshot 2026-04-21 202934.png)
+![3A]<img width="987" height="813" alt="Screenshot 2026-04-21 202934" src="https://github.com/user-attachments/assets/6156f4f6-7bac-457c-be55-8b33636d4423" />
+
 *Command output of `./pes status` showing staged files.*
 
 **Screenshot 3B (Index File):**
-![3B](./screenshots/Screenshot 2026-04-21 203152.png)
+![3B]<img width="878" height="110" alt="Screenshot 2026-04-21 202911" src="https://github.com/user-attachments/assets/20254dff-fc3a-4db9-8795-c798737a979f" />
+
 *Raw content of `.pes/index` showing metadata and hashes.*
 
 ---
@@ -60,11 +65,13 @@ This project is a custom Version Control System (VCS) built from scratch in C, m
 *Object store growth after multiple commits.*
 
 **Screenshot 4C (References):**
-![4C](./screenshots/Screenshot 2026-04-21 203836.png)
+![4C]
+
 *Current HEAD pointing to the latest commit hash.*
 
 **Screenshot 4 Test (Testing):**
-![4test](./screenshots/Screenshot 2026-04-21 203836.png)
+![4test]<img width="1001" height="957" alt="Screenshot 2026-04-21 203836" src="https://github.com/user-attachments/assets/beacce15-d51a-4fed-9646-7ba52508c373" />
+
 *Full test integration result.*
 
 ---

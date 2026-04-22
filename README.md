@@ -32,12 +32,14 @@ This project is a custom Version Control System (VCS) built from scratch in C, m
 
 ### Phase 2: Tree Objects
 **Screenshot 2A (Tests):**
-![2A]<img width="878" height="110" alt="Screenshot 2026-04-21 202911" src="https://github.com/user-attachments/assets/2f28358b-a0a1-4fdb-9c92-ba76ccff36d4" />
+![2A]<img width="1391" height="326" alt="Screenshot 2026-04-22 092702" src="https://github.com/user-attachments/assets/1d025362-b3a4-4e76-b055-f34deade28f6" />
+
 
 *Successful serialization and parsing of tree hierarchies.*
 
 **Screenshot 2B (Binary View):**
-![2B](./screenshots/Screenshot 2026-04-21 202911.png)
+![2B]<img width="1457" height="411" alt="Screenshot 2026-04-22 092732" src="https://github.com/user-attachments/assets/6a5a3320-2f53-48c8-9c5c-f7567beb807d" />
+
 *Hex dump using `xxd` showing the binary structure of a Tree object.*
 
 ---
